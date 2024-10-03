@@ -13,7 +13,7 @@ class Sorting {
 
             }
 		    
-            display(a1);
+            display(a1); //Display current situtaion
 
         }
     }
